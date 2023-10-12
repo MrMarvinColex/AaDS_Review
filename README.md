@@ -40,6 +40,6 @@
 
 Пример того, как будут выглядеть сданные задачи добавлен в папку ```1contest```.
 
-> [базовые требования к коду](https://docs.google.com/document/d/1iVo_AjXBFbVzZWk3m40-KYtVMX_LjsFTTcRbTefyc3g/edit?usp=sharing)
+> [базовые требования к коду](https://docs.google.com/document/d/1l9Wy2ViKqUcmof47XmRrBSxeCYJFHxVIysBv16A3TFs/edit?usp=sharing)
 
 :sparkles:Всем удачи!:sparkles:
